@@ -8,3 +8,5 @@ JavaScript aporta dinamismo, interactividad y lógica en el navegador mediante e
 * Programación asíncrona mediante `Promesas` y `async/await`.
 
 Aprende más en [JavaScript.info](https://javascript.info).
+
+* **Manipulación del DOM:** Selección y modificación dinámica de elementos HTML.
