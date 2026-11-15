@@ -17,3 +17,6 @@ Este repositorio contiene documentación técnica organizada sobre los fundament
 ### Backend
 
 ### Recursos
+
+## Contribuciones
+Para colaborar en este proyecto revisa primero la guía de estilo y abre un Issue en GitHub.
