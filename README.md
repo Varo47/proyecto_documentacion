@@ -25,6 +25,7 @@ Este repositorio contiene documentación técnica organizada sobre los fundament
 * [Seguridad Web](backend/seguridad.md)
 
 ### Recursos
+* [Glosario de Desarrollo Web](recursos/glosario.md)
 
 ## Contribuciones
 Las contribuciones están abiertas: revisa la guía de estilo, abre un Issue en GitHub y envía tu Pull Request.
