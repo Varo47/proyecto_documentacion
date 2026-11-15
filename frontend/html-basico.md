@@ -8,3 +8,5 @@ HTML (*HyperText Markup Language*) define la estructura y el contenido semántic
 * `<a>`, `<img>` y `<ul>` para enlaces, imágenes y listas.
 
 Referencia completa en [HTML Living Standard](https://whatwg.org).
+
+* `<form>`, `<input>` y `<button>` para crear formularios.
