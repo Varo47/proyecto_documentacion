@@ -13,6 +13,10 @@ Este repositorio contiene documentación técnica organizada sobre los fundament
 * [Tecnologías Actuales](introduccion/tecnologias-actuales.md)
 
 ### Frontend
+* [HTML Básico](frontend/html-basico.md)
+* [CSS Avanzado](frontend/css-avanzado.md)
+* [JavaScript Moderno](frontend/javascript-moderno.md)
+* [Frameworks Frontend](frontend/frameworks.md)
 
 ### Backend
 
