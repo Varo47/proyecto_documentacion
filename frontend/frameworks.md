@@ -8,3 +8,5 @@ Los frameworks y librerías aceleran el desarrollo de interfaces complejas basad
 * **Vue.js:** Framework progresivo y ligero.
 
 Documentación oficial de [React](https://react.dev).
+
+* **Bootstrap y Tailwind CSS:** Frameworks enfocados al diseño y estilos.
