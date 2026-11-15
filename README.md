@@ -19,8 +19,12 @@ Este repositorio contiene documentación técnica organizada sobre los fundament
 * [Frameworks Frontend](frontend/frameworks.md)
 
 ### Backend
+* [Servidores Web](backend/servidores.md)
+* [Bases de Datos](backend/bases-de-datos.md)
+* [APIs REST](backend/apis-rest.md)
+* [Seguridad Web](backend/seguridad.md)
 
 ### Recursos
 
 ## Contribuciones
-Las contribuciones están abiertas mediante Pull Requests desde la rama principal de desarrollo.
+Las contribuciones están abiertas: revisa la guía de estilo, abre un Issue en GitHub y envía tu Pull Request.
