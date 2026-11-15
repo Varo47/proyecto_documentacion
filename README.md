@@ -21,3 +21,6 @@ Este repositorio contiene documentación técnica organizada sobre los fundament
 ### Backend
 
 ### Recursos
+
+## Contribuciones
+Las contribuciones están abiertas mediante Pull Requests desde la rama principal de desarrollo.
