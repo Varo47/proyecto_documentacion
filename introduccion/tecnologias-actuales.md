@@ -8,3 +8,5 @@ El ecosistema web actual se basa en estándares abiertos y herramientas modernas
 * **JavaScript (ES6+):** Programación e interactividad.
 
 Documentación de estándares en [WHATWG](https://whatwg.org).
+
+* **Git y GitHub:** Control de versiones y trabajo colaborativo.
