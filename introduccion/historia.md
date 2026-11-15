@@ -8,3 +8,5 @@ La World Wide Web fue creada por Tim Berners-Lee en 1989 en el CERN.
 * **Web 3.0:** Web semántica y descentralizada.
 
 Consulta la historia oficial en el [W3C](https://w3.org).
+
+* **HTML5 y CSS3:** Estandarización moderna de la web multimedia.
