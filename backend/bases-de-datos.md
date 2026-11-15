@@ -7,3 +7,5 @@ Las bases de datos almacenan, organizan y permiten consultar de forma persistent
 * **No Relacionales (NoSQL):** MongoDB, Redis.
 
 Documentación oficial de [PostgreSQL](https://postgresql.org).
+
+* **Consultas CRUD:** Operaciones básicas de crear, leer, actualizar y borrar.
