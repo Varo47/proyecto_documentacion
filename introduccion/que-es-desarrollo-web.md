@@ -8,3 +8,5 @@ El desarrollo web es el proceso de creación y mantenimiento de sitios y aplicac
 * **Full Stack:** Combinación de ambas disciplinas.
 
 Más información en [MDN Web Docs](https://mozilla.org).
+
+* **Accesibilidad Web:** Diseño inclusivo para todo tipo de usuarios.
