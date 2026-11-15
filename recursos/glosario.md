@@ -9,3 +9,5 @@ Definiciones rápidas de términos esenciales en el desarrollo de aplicaciones w
 * **Responsive Design:** Diseño web adaptable a cualquier tamaño de pantalla.
 
 * **Dominio:** Nombre único que identifica a un sitio web en Internet.
+
+* **URL:** Dirección específica de un recurso dentro de la web.
