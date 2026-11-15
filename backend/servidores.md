@@ -8,3 +8,5 @@ Un servidor web procesa las peticiones HTTP/HTTPS de los clientes y devuelve res
 * **Node.js:** Entorno de ejecución JavaScript en el servidor.
 
 Más detalles en [Nginx Docs](https://nginx.org).
+
+* **Alojamiento (Hosting):** Espacio en servidor para publicar una web.
